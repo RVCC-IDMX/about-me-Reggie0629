@@ -1,0 +1,38 @@
+body {
+    font-family:Quicksand, "Times New Roman", serif;
+    background-color: #044040;
+    Color: #f2f2f2
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: Oswald, Arial, sans-serif;
+    font-size: 30;
+}
+header{
+    text-align:center;
+}
+#hero, footer {
+    text-align:center;
+    Color:white;
+    background-color: black;
+    padding: 10px;
+    border: 2px solid black;
+    Border-radius: 20px;
+}
+
+#hero {
+    color: #8c1f28;
+    background-color: #8c1f28;
+    border: 2px solid #d92525;
+    text-align:center;
+    padding: 10px;
+    border-radius: 20px;
+}
+#hero img {
+    width: 200px;
+
+}
+
+#bio {
+    text-align:center;
+
+}
